@@ -27,10 +27,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [回到Windows，最全教程让你的Powershell更好看且好用&lpar;2021版&rpar;](https://dev.amao.run/zh/posts/%E5%9B%9E%E5%88%B0windows%E6%9C%80%E5%85%A8%E6%95%99%E7%A8%8B%E8%AE%A9%E4%BD%A0%E7%9A%84powershell%E6%9B%B4%E5%A5%BD%E7%9C%8B%E4%B8%94%E5%A5%BD%E7%94%A82021%E7%89%88/)
-- [在WSL2中利用Systemd-nspwan创建多个Jenkins容器](https://dev.amao.run/zh/posts/%E5%9C%A8wsl2%E4%B8%AD%E5%88%A9%E7%94%A8systemd-nspwan%E5%88%9B%E5%BB%BA%E5%A4%9A%E4%B8%AAjenkins%E5%AE%B9%E5%99%A8/)
-- [分布式系统之基础抽象](https://dev.amao.run/zh/posts/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E4%B9%8B%E5%9F%BA%E7%A1%80%E6%8A%BD%E8%B1%A1/)
-- [我是谁？](https://dev.amao.run/zh/about/)
+- [Creat multi Jenkins containers in Linux based on systemd-nspawn](https://dev.amao.run/en/posts/systemd-nspwan/)
+- [WHOIAM](https://dev.amao.run/en/about/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
