@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=8ar10der" alt="8ar10der" /></a> </p>
 
-- 🔭 I’m currently working on **Go Karting**
+- 🔭 I’m currently working on **Living**
 
 - 🌱 I’m currently learning **Rust, OpenShift**
 
 - 👯 I’m looking to collaborate on **Nothing**
 
-- 🤝 I’m looking for help with **Eating**
+- 🤝 I’m looking for help with **Go Karting**
 
 - 👨‍💻 All of my projects are available at [https://github.com/8ar10der](https://github.com/8ar10der)
 
