@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=8ar10der" alt="8ar10der" /></a> </p>
 
-- 🔭 I’m currently working on **Living**
+- 🔭 I’m currently working on **Cloud Infrastructure, Automation**
 
-- 🌱 I’m currently learning **Rust, OpenShift**
+- 🌱 I’m currently learning **Rust, OpenShift, OpenStack**
 
-- 👯 I’m looking to collaborate on **Nothing**
+- 👯 I’m looking to collaborate on **ArchLinux Chinese Wiki**
 
-- 🤝 I’m looking for help with **Go Karting**
+- 🤝 I’m looking for help with **Latex**
 
 - 👨‍💻 All of my projects are available at [https://github.com/8ar10der](https://github.com/8ar10der)
 
 - 📝 I regularly write articles on [http://amao.run](http://amao.run)
 
-- 💬 Ask me about **Linux**
+- 💬 Ask me about **ArchLinux or anything around Linux Ops**
 
-- 📫 How to reach me **ihidemyname@outlook.com**
+- 📫 How to reach me **8ar10der@amao.run**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yuehao-sui/](https://www.linkedin.com/in/yuehao-sui/)
 
